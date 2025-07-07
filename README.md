@@ -23,8 +23,7 @@ The Hotel Management System is a responsive and user-friendly platform that help
 
 **Frontend:**
 - HTML  
-- CSS  
-- JavaScript  
+- CSS  (Bootstrap 5)
 
 **Backend:**
 - PHP (Core PHP)  
@@ -34,7 +33,7 @@ The Hotel Management System is a responsive and user-friendly platform that help
 - phpMyAdmin / MySQL  
 
 **Web Server:**
-- XAMPP / LAMP / WAMP (Localhost)
+- XAMPP (Localhost)
 
 ---
 
