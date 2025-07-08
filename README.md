@@ -77,9 +77,18 @@ $conn = new mysqli('localhost', 'root', '', 'hotel_db');
 • Use admin or user credentials to log in and explore the system.
 
 
-### ✅ To Make It Work:
+### ✅ To Screenshot & How it Work:
+## 📸 Screenshots
 
-1. Place your **screenshots** and **GIF demo** in the `assets/` folder.
-   - `screenshot/sample1.png`
-   - `screenshot/sample2.png`
-   - `screenshot/video1.mp4`
+### Login Page  
+![Login Page](screenshot/sample1.png)
+
+### Dashboard  
+![Dashboard](screenshot/sample2.png)
+
+---
+
+## 🎥 Demo
+
+![Demo](screenshot/demo.gif)
+
