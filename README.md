@@ -90,5 +90,5 @@ $conn = new mysqli('localhost', 'root', '', 'hotel_db');
 
 ## 🎥 Demo
 
-![Demo](screenshot/demo.gif)
+![Demo](screenshot/video1.mp4)
 
